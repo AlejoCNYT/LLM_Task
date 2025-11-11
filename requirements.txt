@@ -1,8 +1,7 @@
 langchain
-langchain-text-splitters
-langchain-community
 langchain-core
+langchain-community
 langchain-openai
-beautifulsoup4
+langchain-text-splitters
+bs4
 python-dotenv
-langsmith
